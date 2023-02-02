@@ -20,6 +20,7 @@ public class rasta{
         System.out.println("-->this is the character var .");   //result in instruction after this .
         System.out.println(var1);          //how to print a character variable .
         System.out.println(var2);          //who to print a string variable again .
+
         System.out.println(bool);          //how to print a boolean variable .
         System.out.println(nbr);           //how to print a simple number .
     } */
@@ -58,4 +59,9 @@ System.out.println("Give me a text to play it ? ");
 
 
 }
+=======
+        System.out.println(bool);          //how to print a bollean variable .
+        System.out.println(nbr);           //how to print a simple number .
+    }
+
 }
